@@ -1,12 +1,12 @@
 Hello there! I'm Zexenux.
 
-Python Beginner | HTML + CSS Beginner
+Python Beginner | HTML + CSS Beginner | C# Beginner
 
-👀 I’m interested in web development. 
+👀 I’m interested in application & game development.
 
-❗ Currently learning HTML & CSS.
+❗ Currently learning C#.
 
-❕Soon, I will start learning JavaScript and more Python.
+❕Soon, I will start learning Lua and more Python.
 
 ✉️ You can reach me on: **Discord** - Zexenux#6865 | **
 
