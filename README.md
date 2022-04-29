@@ -1,6 +1,5 @@
 Hello there! I'm Zexenux.
-
-Python Beginner | HTML + CSS Beginner | C# Beginner
+Python & C#
 
 👀 I’m interested in application & game development.
 
