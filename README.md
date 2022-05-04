@@ -1,15 +1,7 @@
-Hello there! I'm Zexenux.
-Python & C#
+# ZDev
+Solo developer, mainly C# but also a bit of Python.
 
-👀 I’m interested in application & game development.
 
-❗ Currently learning C#.
-
-❕Soon, I will start learning Lua and more Python.
-
-✉️ You can reach me on: **Discord** - Zexenux#6865 | **
-
-<!---
-Zexenux/Zexenux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current Projects
+----------------
+Zexecutor (Keyless & Free ROBLOX Executor)
